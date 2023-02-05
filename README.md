@@ -3,7 +3,7 @@
 Using PyMongo, analyze ratings data to allow for insights into future projects
 
 
-## Environment
+## Dependencies and Setup
 
 ```bash
 from pymongo import MongoClient
